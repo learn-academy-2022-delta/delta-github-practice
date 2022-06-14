@@ -7,3 +7,6 @@ Adding some more content to this page.
 I may be getting the hang of this. Keep it up
 
 Just making more updates for practice. 
+
+coding: Do we go together? 
+me: real bad 
