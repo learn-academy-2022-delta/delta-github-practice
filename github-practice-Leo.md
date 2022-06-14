@@ -2,7 +2,7 @@
 
 We are learning about github. its confusing and exciting
 
-Warriors in 6
+adding additional code
 
-<I am a basketball fan>
+positive affirmation
 
