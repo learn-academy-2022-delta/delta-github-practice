@@ -11,3 +11,5 @@ Just wanting to throw in some affirmations
 - Teamwork makes the dream work
 - Always ask questions
 - You are all amazing
+
+I am doing on last test to make sure i got the hang of it. 
