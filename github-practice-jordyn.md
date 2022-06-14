@@ -11,3 +11,9 @@ Learning how to do push and pull is exciting and fun.
 Learning how to access and use the terminal.
 Can't create a new pull request
 Red, Blue, Green, Yellow
+
+My Favorite Foods
+- Pasta
+- Chimichungas
+- Chocolate
+- Gelato
