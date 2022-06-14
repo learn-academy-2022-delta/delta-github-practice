@@ -8,8 +8,12 @@ Delta First Shared Repo
 Introduction to Git and Github
 </h2>
 
-<p>Hello, I am practicing how to use git and github. Repitition is key. Here is a table of Commands.
+<p>Hello, I am practicing how to use Git and Github. Rinse and repeat. Repitition is key, I can only learn by trial and error.
 </p>
+
+<h3>
+Git Commands
+</h3>
 
 <table>
   <tr>
